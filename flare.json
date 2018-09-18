@@ -2,21 +2,22 @@
     "name": "flare",
     "children": [
        {
-        "name": "controls",
+        "name": "본인",
         "children": [
-         {"name": "AnchorControl", "size": 2138},
-         {"name": "ClickControl", "size": 3824},
-         {"name": "Control", "size": 1353},
-         {"name": "ControlList", "size": 4665},
-         {"name": "DragControl", "size": 2649},
-         {"name": "ExpandControl", "size": 2832},
-         {"name": "HoverControl", "size": 4896},
-         {"name": "IControl", "size": 763},
-         {"name": "PanZoomControl", "size": 5222},
-         {"name": "SelectionControl", "size": 7862},
-         {"name": "TooltipControl", "size": 8435}
+         {"name": "대형 할인마트", "size": 271},
+         {"name": "소형마트(슈퍼마켓, SSM)", "size": 211},
+         {"name": "백화점", "size": 72},
+         {"name": "편의점", "size": 201},
+         {"name": "재래시장", "size": 105},
+         {"name": "온라인 쇼핑(PC)", "size": 151},
+         {"name": "모바일 쇼핑", "size": 151},
+         {"name": "기타", "size": 8},
+         {"name": "지난 1개월 간 식재료를 구입한 적 없음", "size": 0}
         ]
-       }
-
+       },
+       {"name": "배우자", "size": 300},
+       {"name": "부모", "size": 300},
+       {"name": "자녀", "size": 300},
+       {"name": "기타", "size": 300}
       ]
    }
